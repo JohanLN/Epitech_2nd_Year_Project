@@ -1,0 +1,4 @@
+Snake high score :
+
+: 0
+gr: 0
